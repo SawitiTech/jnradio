@@ -1,4 +1,4 @@
-package com.blessingmwiti.kotlinwebview
+package com.sawititech.jnradio
 
 import org.junit.Test
 

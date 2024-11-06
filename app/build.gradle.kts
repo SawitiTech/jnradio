@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.blessingmwiti.kotlinwebview"
+    namespace = "com.sawititech.jnradio"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.blessingmwiti.kotlinwebview"
+        applicationId = "com.sawititech.jnradio"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -65,4 +65,5 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
 }

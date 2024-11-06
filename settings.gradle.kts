@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "kotlin webview"
+rootProject.name = "JN Radio"
 include(":app")
